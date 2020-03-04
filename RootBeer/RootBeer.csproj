@@ -17,6 +17,16 @@
     <AndroidClassParser>class-parse</AndroidClassParser>
     <AndroidCodegenTarget>XAJavaInterop1</AndroidCodegenTarget>
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>RootBeer</PackageId>
+    <Authors>nmilcoff</Authors>
+    <Copyright>Copyright (c) 2020 nmilcoff</Copyright>
+    <PackageIconUrl>https://raw.githubusercontent.com/scottyab/rootbeer/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/nmilcoff/rootbeer/blob/master/LICENSE</PackageLicenseUrl>
+    <Owners>Nico Milcoff</Owners>
+    <PackageProjectUrl>https://github.com/nmilcoff/rootbeer</PackageProjectUrl>
+    <Summary>Xamarin.Android bindings for https://github.com/scottyab/rootbeer</Summary>
+    <Title>RootBeer</Title>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
