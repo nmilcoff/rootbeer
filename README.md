@@ -97,4 +97,4 @@ If you dig this, you might like:
 
 # Licence
 
-This binding library is licensed under MIT.
+This binding library is licensed under [MIT](https://github.com/nmilcoff/rootbeer/blob/master/LICENSE).
