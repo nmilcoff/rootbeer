@@ -1,6 +1,9 @@
 # rootbeer
 This repository contains Xamarin.Android bindings for the original [rootbeer](https://github.com/scottyab/rootbeer) library.
 
+[![Build status](https://dev.azure.com/nicolasmilcoff/RootBeer/_apis/build/status/RootBeer-CI)](https://dev.azure.com/nicolasmilcoff/RootBeer/_build/latest?definitionId=2)
+[![NuGet](https://img.shields.io/nuget/v/RootBeer.svg?label=NuGet)](https://www.nuget.org/packages/RootBeer)
+
 -----
 
 # RootBeer ![image](https://raw.githubusercontent.com/scottyab/rootbeer/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png)
@@ -49,6 +52,8 @@ Tested cloakers:
 ## Usage
 
 ```c#
+using Com.Scottyab.Rootbeer;
+
 var rootBeer = new RootBeer(context);
 if (rootBeer.IsRooted)
 {
