@@ -10,6 +10,13 @@ This repository contains Xamarin.Android bindings for the original [rootbeer](ht
 
 A tasty root checker library and sample app. We've scoured the internets for different methods of answering that age old question... **Has this device got root?**
 
+## <a name="Setup"> Setup </a>
+
+Download the package from [NuGet](https://www.nuget.org/packages/RootBeer).
+
+> Install-Package RootBeer
+
+
 # Root checks
 These are the current checks/tricks we are using to give an indication of root.
 
