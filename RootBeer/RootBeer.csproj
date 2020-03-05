@@ -28,6 +28,9 @@
     <Summary>Xamarin.Android bindings for https://github.com/scottyab/rootbeer</Summary>
     <Title>RootBeer</Title>
     <PackageVersion>0.0.8</PackageVersion>
+    <Description>Xamarin.Android bindings for https://github.com/scottyab/rootbeer
+
+A tasty root checker library for Android that answers the question... Has this device got root? By performig many different checks</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
