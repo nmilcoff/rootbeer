@@ -1,6 +1,8 @@
 # rootbeer
 This repository contains Xamarin.Android bindings for the original [rootbeer](https://github.com/scottyab/rootbeer) library.
 
+🔒📌 Note: I highly encourage you to install [BreachDetector](https://github.com/nmilcoff/BreachDetector) instead, which will allow you to work in a cross platform way.
+
 [![Build status](https://dev.azure.com/nicolasmilcoff/RootBeer/_apis/build/status/RootBeer-CI)](https://dev.azure.com/nicolasmilcoff/RootBeer/_build/latest?definitionId=2)
 [![NuGet](https://img.shields.io/nuget/v/RootBeer.svg?label=NuGet)](https://www.nuget.org/packages/RootBeer)
 
